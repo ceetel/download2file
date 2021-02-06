@@ -1,3 +1,4 @@
-/.vscode
-/hentai.txt
-/urls_hentai.txt
+urls_hentai.txt
+hentai.txt
+.gitignore
+.vscode/settings.json
